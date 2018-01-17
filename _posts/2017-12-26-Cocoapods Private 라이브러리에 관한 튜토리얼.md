@@ -82,7 +82,7 @@ pod lib create [Name]
 알아서 셋팅이 되고 빠밤 xcode가 실행됩니다.
 
 아래 네비게이션에서 우리가 건드리는 부분은 
-![118-201712-26-1529-56.png](/files/3851) 
+![118-201712-26-1529-56.png](/images/118-201712-26-1529-56.png) 
 
 * [Name].podspec
 * Podfile
@@ -212,7 +212,7 @@ public class HelloTest: NSObject {
 
 그리고 깃에 태그를 매겨줍니다.
 코코아팟은 해당 라이브러리의 버전별로도 관리가 가능한데, 이것을 태그값으로 구분합니다.
-![494-201712-26-1554-38.png](/files/3858)
+![494-201712-26-1554-38.png](/images/494-201712-26-1554-38.png)
 
 그리고 이제 버전정보를 담은 podspec 파일을 cocoapods private repository에 올려줍니다. 
 ```javascript
